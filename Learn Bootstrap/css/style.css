@@ -3,6 +3,10 @@
     padding: 10px;
 }
 
+/* .col{
+    border: 3px solid red;
+} */
+
 .col-5{
     border: 3px solid red;
 }
@@ -17,4 +21,12 @@
 
 .col-4{
     border: 3px solid red;
+}
+
+h3{
+    text-align: center;
+}
+
+.progress h2{
+    color: crimson;
 }
